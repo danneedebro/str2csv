@@ -1,0 +1,5 @@
+\\vnringna02.eur.corp.vattenfall.com\usersd$\dero\documents\visual studio 2015\Projects\str2csv\bin\Debug\str2csv.exe.config
+\\vnringna02.eur.corp.vattenfall.com\usersd$\dero\documents\visual studio 2015\Projects\str2csv\bin\Debug\str2csv.exe
+\\vnringna02.eur.corp.vattenfall.com\usersd$\dero\documents\visual studio 2015\Projects\str2csv\bin\Debug\str2csv.pdb
+\\vnringna02.eur.corp.vattenfall.com\usersd$\dero\documents\visual studio 2015\Projects\str2csv\obj\Debug\str2csv.exe
+\\vnringna02.eur.corp.vattenfall.com\usersd$\dero\documents\visual studio 2015\Projects\str2csv\obj\Debug\str2csv.pdb
